@@ -196,13 +196,13 @@ hr{
 }
 */
 
-.butt div{
+#butt div{
 	width: 60px;
 	height: 60px;
 	float: left;
 	margin: 0 5px;
 }
-.butt a{
+#butt a{
 	display: block;
 	width: 60px;
 	height: 60px;
