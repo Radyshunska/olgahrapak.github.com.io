@@ -97,6 +97,7 @@ hr{
 .F {
 	width: 50px;
 	height: 50px;
+	display: block;
 	background: url(../images/noActive1.png.) no-repeat center ;	
 }
 .F a{
