@@ -94,46 +94,46 @@ hr{
 	cursor: pointer;
 }
 .F{
-	background: url(../images/noActive1.png) no-repeat;
+	background: url(../images/noActive1.png) no-repeat center;
 }
 .F:hover{
-	background: url(../images/Active1.png) no-repeat;
+	background: url(../images/Active1.png) no-repeat center;
 }
 .T{
-	background: url(../images/noActive2.png) no-repeat;
+	background: url(../images/noActive2.png) no-repeat center;
 }
 .T:hover{
-	background: url(../images/Active2.png) no-repeat;
+	background: url(../images/Active2.png) no-repeat center;
 }
 .G{
-	background: url(../images/noActive3.png) no-repeat;
+	background: url(../images/noActive3.png) no-repeat center;
 }
 .G:hover{
-	background: url(../images/Active3.png) no-repeat;
+	background: url(../images/Active3.png) no-repeat center;
 }
 .P{
-	background: url(../images/noActive4.png) no-repeat;
+	background: url(../images/noActive4.png) no-repeat center;
 }
 .P:hover{
-	background: url(../images/Active4.png) no-repeat;
+	background: url(../images/Active4.png) no-repeat center;
 }
 .PH{
-	background: url(../images/noActive5.png) no-repeat;
+	background: url(../images/noActive5.png) no-repeat center;
 }
 .PH:hover{
-	background: url(../images/Active5.png) no-repeat;
+	background: url(../images/Active5.png) no-repeat center;
 }
 .B1{
-	background: url(../images/noActive6.png) no-repeat;
+	background: url(../images/noActive6.png) no-repeat center;
 }
 .B1:hover{
-	background: url(../images/Active6.png) no-repeat;
+	background: url(../images/Active6.png) no-repeat center;
 }
 .B2{
-	background: url(../images/noActive7.png) no-repeat;
+	background: url(../images/noActive7.png) no-repeat center;
 }
 .B2:hover{
-	background: url(../images/Active7.png) no-repeat;
+	background: url(../images/Active7.png) no-repeat center;
 }
 .write input{
 	border-style: none;
