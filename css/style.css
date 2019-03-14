@@ -71,20 +71,7 @@ hr{
 #gg{
 	color: white;
 }
-/*.btn-min-block{
-	min-width: 170px;
-	line-height: 26px;
-}
-.btn-clear{
-	color: #FFF;
-	background-color: transparent;
-	border-color: #FFF;
-	margin-right: 15px;
-}
-.btn-clear:hover{
-	color: #000;
-	background-color: #FFF;
-}*/
+
 .soc{
 	font-size: 1.25rem;
 	color: #0f1f2d;
@@ -93,11 +80,12 @@ hr{
 	font-size:0.875rem;
 	color: #b8b2a7;
 }
+
+
 #butt div{
 	width: 60px;
 	height: 60px;
-	float: left;
-	margin: 0 5px;
+	
 }
 #butt a{
 	display: block;
@@ -161,9 +149,9 @@ hr{
     padding-bottom:30px;
 }
 
-.tabs .tab-pane{
+/*.tabs .tab-pane{
     margin-left:20px;
-}
+}*/
 
 .tabs h3{
 	font-size:20px;
@@ -271,27 +259,15 @@ hr{
 		margin: 1%;
 		padding: 10% 0;
 }
-	/*.F, .T, .G, .P, .PH, .B1, .B2{
+	#butt div{
 		width: 30px;
 		height: 30px;
-		background-size: cover;
+		background-size: contain;
 	}
-	.B2 a{
+	#butt a{
 		width:30px;
 		height:30px;
 	}
-	.F a{width: 30px;
-		height: 30px;} 
-	.T a {width: 30px;
-		height: 30px;}
-	.G  a{width: 30px;
-		height: 30px;}
-	.P  a{width: 30px;
-		height: 30px;}
-	.PH  a{width: 30px;
-		height: 30px;}
-	.B1 a{width: 30px;
-		height: 30px;}*/
 
  }
 
